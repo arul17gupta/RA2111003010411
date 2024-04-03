@@ -50,14 +50,17 @@ average-calculator/
 
 ### FrontEnd
 
-![WhatsApp Image 2024-04-03 at 7 45 27 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/497f76b0-6e41-41fb-a35a-7d9d62b587da)
+![WhatsApp Image 2024-04-03 at 7 45 27 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/e394f1ef-0d6b-447c-99ad-29763069b6b6)
+
 
 ### BackEnd
-![WhatsApp Image 2024-04-03 at 7 42 07 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/af8b0823-7537-4aa1-961b-25575358d4ea)
+![WhatsApp Image 2024-04-03 at 7 42 10 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/12a6de0e-15df-40a0-a68c-f98df29ebb6d)
+
 
 ### After Making a Dummy API
 
-![WhatsApp Image 2024-04-03 at 7 42 10 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/5b739650-485f-4098-876d-6750279cd97b)
+![WhatsApp Image 2024-04-03 at 7 42 07 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/e2524190-9db4-4785-9d6f-a62a9253d298)
+
 
 
 
