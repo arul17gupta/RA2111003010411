@@ -44,3 +44,21 @@ average-calculator/
 ├── server.js
 ├── README.md
 └── package.json
+
+
+## ScreenShots
+
+### FrontEnd
+
+![WhatsApp Image 2024-04-03 at 7 45 27 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/497f76b0-6e41-41fb-a35a-7d9d62b587da)
+
+### BackEnd
+![WhatsApp Image 2024-04-03 at 7 42 07 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/af8b0823-7537-4aa1-961b-25575358d4ea)
+
+### After Making a Dummy API
+
+![WhatsApp Image 2024-04-03 at 7 42 10 PM](https://github.com/arul17gupta/RA2111003010411/assets/91671631/5b739650-485f-4098-876d-6750279cd97b)
+
+
+
+
